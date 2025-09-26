@@ -66,8 +66,3 @@ A prática de IaC foi aplicada para promover automação e escalabilidade. Seus 
 ## ✅ Conclusão
 
 O laboratório abordou ferramentas essenciais para o gerenciamento de recursos no Azure, além de práticas modernas de automação e controle. A aplicação de infraestrutura como código, aliada ao uso de modelos ARM e ao Azure Arc, permite maior eficiência, segurança e governança em ambientes de nuvem e híbridos.
-
----
-
-📁 **Instruções para entrega**:  
-Este arquivo deve ser salvo como `README.md` em um repositório público no GitHub. O link do repositório deve ser compartilhado conforme solicitado no desafio.
